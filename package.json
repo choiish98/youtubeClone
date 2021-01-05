@@ -1,0 +1,22 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanila and Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choiish98/youtubeClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choiish98/youtubeClone/issues"
+  },
+  "homepage": "https://github.com/choiish98/youtubeClone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
