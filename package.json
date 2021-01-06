@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/choiish98/youtubeClone#readme",
   "dependencies": {
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
     "express": "^4.17.1"
   }
 }
