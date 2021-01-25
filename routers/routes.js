@@ -6,13 +6,11 @@ const LOGOUT = "/logout";
 const SEARCH = "/search";
 
 //users
-const USERS = "/users";
 const USER_DETAIL ="/:id";
 const EDIT_PROFILE = "/edit-profile";
 const CHANGE_PASSWORD = "/change-password";
 
 //videos
-const VIDEOS = "/videos";
 const UPLOAD = "/upload";
 const VIDEOS_DETAIL = "/:id";
 const EDIT_VIDEO = "/:id/edit";
@@ -23,12 +21,10 @@ const routes = {
     join: JOIN,
     login: LOGIN,
     logout: LOGOUT,
-    search: SEARCH, 
-    users: USERS,
+    search: SEARCH,
     userDetail: USER_DETAIL,
     editProfile: EDIT_PROFILE,
     changePassword: CHANGE_PASSWORD,
-    videos: VIDEOS,
     upload: UPLOAD,
     videoDetail: VIDEOS_DETAIL,
     editVideo: EDIT_VIDEO,
